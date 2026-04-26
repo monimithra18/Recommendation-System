@@ -100,4 +100,4 @@ movie_recommender
 
 ---
 
-*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) · MS Data Science @ University at Buffalo*
+*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) ·*
